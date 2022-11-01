@@ -8,16 +8,35 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Dmart website' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { 
+        rel: 'icon', 
+        type: 'image/x-icon', 
+        href: '/favicon.ico' 
+    },
+    { 
+      rel: 'stylesheet', 
+      href: '/css/bootsrap.min.css' 
+    },
+    { 
+      rel: 'stylesheet', 
+      href: '/css/custom.css' 
+    },
+    ],
+    script: [
+      {
+        src:'/js/bootstrap.bundle.min.js',
+        type:'text/javascript'
+      }
     ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    // '~/assets/css/style.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
