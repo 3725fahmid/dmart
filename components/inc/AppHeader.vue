@@ -1,6 +1,6 @@
 <template>
 <div class='sticky-top'>
-<nav class="navbar navbar-expand-lg navbar-light bg-white shadow">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary bd-navbar">
     <div class="container">
         <a class="navbar-brand" href="/">
             <img src="/image/Star.png" alt="logo" class="logo_img" >
@@ -56,5 +56,10 @@ export default {
 .logo_img{
     width: 40px;
     height: 35px;
+}
+.navbar{
+     color:#ffff;
+     background: rgb(31,108,241);
+     background: linear-gradient(180deg, rgba(31,108,241,1) 0%, rgba(14,23,156,1) 100%);  
 }
 </style>
