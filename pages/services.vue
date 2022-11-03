@@ -10,7 +10,11 @@
           Some quick example text to build on the card title and make up the
           bulk of the card's content.
         </p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a class='btn' href="/">
+            <span>quote</span>
+                <div class="liquid">
+                    </div>
+        </a>
       </div>
     </div>
   </div>
