@@ -38,3 +38,72 @@
     font-weight: 400;
     color: #888888;
 }
+
+/* Button style  */
+
+.btn{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    width: 220px;
+    padding:13px 0;
+    border-radius: 25px 2px 25px 2px;
+    overflow: hidden;
+    position: relative;
+}
+.btn span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    letter-spacing: 3px;
+    position: relative;
+    z-index:1;
+}
+.btn .liquid{
+    width: 250px;
+    height: 300px;
+    background: #ff009d;
+    box-shadow: inset 0 0 50px rgba(0 0 0, .5);
+    position: absolute;
+    top: -60px;
+    left: 0;
+    transition: .5s;
+
+}
+.btn .liquid::before,
+.btn .liquid::after
+{
+    content: '';
+    width: 140%;
+    height: 130%;
+    background: #000;
+    position: absolute;
+    top: 3%;
+    left: 40%;
+    transform: translate(-50%,75%);
+}
+.btn .liquid::before{
+    border-radius: 45%;
+    background: rgba(20, 20, 20, 1);
+    animation: shake 5s linear infinite;
+}
+.btn .liquid::after{
+    border-radius: 40%;
+    background: rgba(20, 20, 20, 0.5);
+    animation: shake 10s linear infinite;
+}
+@keyframes shake {
+    0%{
+        transform: translate(-50%,-75%) rotate(0deg);
+    }
+    100% {
+        transform: translate(-50%, -75%) rotate(360deg);
+    }
+    
+}
+
+.btn:hover .liquid{ top: -85px}
+
+/* Button style end  */
