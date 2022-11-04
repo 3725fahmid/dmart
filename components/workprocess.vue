@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-    name='workprocess',
+    name:'workprocess',
 }
 </script>
 <style lang="">
