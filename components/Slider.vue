@@ -17,7 +17,7 @@
                   <button type="button" class="btn btn-primary" data-bs-toggle="button">Get quote</button>
               </div>
               <div class="col-md-6">  
-              <div class="img-box">
+              <div class="img-box ">
                <img src="/image/A.jpg" class="d-block w-100 imgArea" alt="Slide 1">
               </div>           
               </div>
@@ -84,11 +84,9 @@ export default {
   margin: 0;
   padding: 0;
   width: 100vw;
-  height: auto;
+  
 }
-.img-box{
-  width: 500px;
-}
+
 .slide-one{
    background: rgb(137,255,244);
    background: linear-gradient(0deg, rgba(137,255,244,1) 0%, rgba(14,23,156,1) 100%); 

@@ -1,6 +1,6 @@
 <template>
 <div class='sticky-top'>
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary bd-navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <a class="navbar-brand" href="/">
             <img src="/image/Star.png" alt="logo" class="logo_img" >
@@ -23,25 +23,6 @@
                         <NuxtLink to="/services" class="nav-link">Services</NuxtLink>
                     </li>
                 </ul> 
-                    <!-- <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown
-                        </a>
-                        <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled">Disabled</a>
-                    </li>-->
-                   
-                    <!-- <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form> -->
                 </div>
                 </div>
             </nav>
@@ -57,9 +38,11 @@ export default {
     width: 40px;
     height: 35px;
 }
-.navbar{
-     color:#ffff;
-     background: rgb(31,108,241);
-     background: linear-gradient(180deg, rgba(31,108,241,1) 0%, rgba(14,23,156,1) 100%);  
+.customNav{
+     text-color:#000;
+     display: flex;
+     align-item:center;
+     justify-content:center;
+     
 }
 </style>

@@ -2,20 +2,45 @@
     margin: 0;
     padding: 0;
 }
+
+/* Heading section */
+
 .main-heading{
     font-size: 30px;
     font-weight: 800;
     margin-bottom: 14px;
 }
-.underline {
-    height: 4px;
-    width: 88px;
-    background-color: red;
-    border-radius: 8px;
-    margin-bottom: 16px;
+
+/* About section */
+
+.about-Section{
+    background-color: #274058;
+    width: 100% !important;
+    height: auto;
 }
-.bg-gray {
-    background-color: #f2f2f2f2;
+
+/* Card section */
+
+.card-section{
+    background: #ebeff3;
+    width: 100% !important;
+}
+
+/* know us section  */
+
+.bat {
+    background: #353dab;
+    margin-top: 0;
+}
+/* global user  */
+
+.golbUser {
+    background-color: rgba(96,120,157,.4);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    border-radius: 15px;
 }
 .box-card {
     background-color: #fff;
