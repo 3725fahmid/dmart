@@ -34,49 +34,49 @@
     <!-- Branding section  -->
   <section>
     <div class="card-section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 mt-3 pt-3 text-center text-uppercase">
-          <h2>Bringing DeFi to the BAT ecosystem</h2>
-        </div>
-      </div>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 pb-5 pt-4">
-
-        <div class="col">
-          <div class="card">
-            <img src="/image/B.jpg" alt="card_img" class="w-100" />
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mt-3 pt-3 text-center text-uppercase">
+            <h2>Bringing DeFi to the BAT ecosystem</h2>
           </div>
         </div>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 pb-5 pt-4">
 
-        <div class="col">
-          <div class="card">
-            <img src="/image/B.jpg" alt="card_img" class="w-100" />
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <div class="col">
+            <div class="card">
+              <img src="/image/B.jpg" alt="card_img" class="w-100" />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
             </div>
           </div>
-        </div>
 
-        <div class="col">
-          <div class="card">
-            <img src="/image/B.jpg" alt="card_img" class="w-100" />
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <div class="col">
+            <div class="card">
+              <img src="/image/B.jpg" alt="card_img" class="w-100" />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
             </div>
           </div>
+
+          <div class="col">
+            <div class="card">
+              <img src="/image/B.jpg" alt="card_img" class="w-100" />
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              </div>
+            </div>
+          </div>
+
+
         </div>
-
-
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
 <!-- know as section   <img src="/image/B.jpg" alt="card_img" class="w-100" />-->
 
@@ -200,48 +200,57 @@
           <div class="row d-flex justify-content-center">
 
               <!-- Team item -->
-              <div class="col-xl-3 col-sm-6 m-3 p-2"">
-                  <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                      <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-                      <ul class="social mb-0 list-inline mt-3">
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
-                      </ul>
+              <div class="col-xl-3 col-sm-12 m-3 p-2">
+                  <div class="bg-white rounded shadow-sm py-5 px-4">
+                    <div class="card-content">
+                      <img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                    </div>
                   </div>
               </div><!-- End -->
 
                <!-- Team item -->
-              <div class="col-xl-3 col-sm-6 m-3 p-2"">
-                  <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                      <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-                      <ul class="social mb-0 list-inline mt-3">
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
-                      </ul>
+              <div class="col-xl-3 col-sm-12 m-3 p-2">
+                  <div class="bg-white rounded shadow-sm py-5 px-4">
+                    <div class="card-content">
+                      <img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                    </div>
                   </div>
               </div><!-- End -->
 
                <!-- Team item -->
-              <div class="col-xl-3 col-sm-6 m-3 p-2">
-                  <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                      <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
-                      <ul class="social mb-0 list-inline mt-3">
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                          <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
-                      </ul>
+              <div class="col-xl-3 col-sm-12 m-3 p-2">
+                  <div class="bg-white rounded shadow-sm py-5 px-4">
+                    <div class="card-content">
+                      <img src="https://bootstrapious.com/i/snippets/sn-team/teacher-4.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                          <h5 class="mb-0">Manuella Nevoresky</h5><span class="small text-uppercase text-muted">CEO - Founder</span>
+                          <ul class="social mb-0 list-inline mt-3">
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-twitter"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                              <li class="list-inline-item"><a href="#" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                    </div>
                   </div>
               </div><!-- End -->
 
             </div>
 
           <div class="row">
-            <div class="col-md-4 d-flex justify-content-center p-3">
+            <div class="col-md-12 d-flex justify-content-center p-3">
               <button class='btn btn-primary'>click</button>
             </div>
           </div>
@@ -250,14 +259,75 @@
       </div>
 </section>
 
+
+<!-- Our private ad network is a first of its kind -->
+
+<section>
+
+  <div class="network">
+    <div class="container">
+      <div class="row">
+        <div class="cols-md-12 text-center p-3">
+          <h2>Our private ad network is a first of its kind</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="activity">
+    <div class="container pt-4">
+      <div class="row">
+        <div class="col-md-9">
+          <div class="row cols-md-3 cols-sm-1 text-light">
+              <div class="col">
+                <h1>+27K</h1>
+                <p>Active Campigns</p>
+              </div>
+              <div class="col">
+                <h1>+27K</h1>
+                <p>Active Campigns</p>
+              </div>
+              <div class="col">
+                <h1>+27K</h1>
+                <p>Active Campigns</p>
+              </div>
+          </div>
+        </div>
+        <div class="col-md-3 text-primary">
+          <p>Since launch we continue to work with some of the industry's biggest brands.</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 p-4">
+             <img class="img-responsive w-100" src="/image/svg/graphic-brand-thumbnails-desktop.svg" alt="Batimg" />
+          </div>
+        </div>
+    </div>
+  </div>
+
+  <div class="participant">
+    <div class="container pt-3">
+      <div class="row ">
+        <div class="col-md-5">
+          <h2>Ecosystem Participants</h2>
+        </div>
+        <div class="col-md-7">
+          <p>Close to 1,000,000 participants accept BAT, including some of the biggest Internet and crypto companies.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
 <!-- Global user  --> 
-
-
 
     <div class="py-5">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-8">
             <h1 class="main-heading">If you have any queryes ?</h1>
             <h4>Pleace reach out us at contact@exam.com</h4>
           </div>
@@ -269,7 +339,94 @@
         </div>
       </div>
     </div>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="cols-md-5">
+        <div class="col">
+
+        </div>
+      </div>
+    </div>
   </div>
+</section>
+
+<!-- attached card section  -->
+
+<section>
+         <!-- Topic Cards -->
+    <div id="cards_landscape_wrap-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg" alt="" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>Title 01</h6>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://cdn.pixabay.com/photo/2018/04/09/19/55/low-poly-3305284_960_720.jpg" alt="" />
+                                </div>
+                                <div class="text-container">                                    
+                                    <h6>Title 02</h6>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://cdn.pixabay.com/photo/2018/04/06/13/46/poly-3295856_960_720.png" alt="" />
+                                </div>
+
+                                <div class="text-container">
+                                    <h6>Title 03</h6>
+                                   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                    <a href="">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://cdn.pixabay.com/photo/2018/03/30/15/12/dog-3275593_960_720.jpg" alt="" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>Title 04</h6>
+                                   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+</div>
 </template>
 
 <script>

@@ -18,7 +18,7 @@
               </div>
               <div class="col-md-6">  
               <div class="img-box ">
-               <img src="/image/A.jpg" class="d-block w-100 imgArea" alt="Slide 1">
+               <img src="/image/B.jpg" class="d-block w-100 imgArea" alt="Slide 1">
               </div>           
               </div>
             </div>
