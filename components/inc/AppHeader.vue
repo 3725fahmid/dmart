@@ -22,6 +22,9 @@
                     <li class="nav-item">
                         <NuxtLink to="/services" class="nav-link">Services</NuxtLink>
                     </li>
+                    <li class="nav-item">
+                        <NuxtLink to="/formpage" class="nav-link">Form</NuxtLink>
+                    </li>
                 </ul> 
                 </div>
                 </div>

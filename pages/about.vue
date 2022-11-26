@@ -16,6 +16,7 @@
             and more recently with desktop publishing software like Aldus
             PageMaker including versions of Lorem Ipsum.
           </p>
+          <!-- <h2>Page visits: {{ count }}</h2> -->
         </div>
       </div>
     </div>
@@ -23,6 +24,8 @@
 </template>
 
 <script>
+// <script setup>
+
 export default {
     name:'about',
      head: {
@@ -40,5 +43,8 @@ export default {
       }
     ],
   }
+
+  // const { data: count } = await useFetch('https://jsonplaceholder.typicode.com/todos/1')
+  // console.log(count);
 }
 </script>
